@@ -1,0 +1,15 @@
+E:\julia\Geekbrains\CONTROLWORK\TheTask\bin\Debug\net6.0\TheTask.exe
+E:\julia\Geekbrains\CONTROLWORK\TheTask\bin\Debug\net6.0\TheTask.deps.json
+E:\julia\Geekbrains\CONTROLWORK\TheTask\bin\Debug\net6.0\TheTask.runtimeconfig.json
+E:\julia\Geekbrains\CONTROLWORK\TheTask\bin\Debug\net6.0\TheTask.dll
+E:\julia\Geekbrains\CONTROLWORK\TheTask\bin\Debug\net6.0\TheTask.pdb
+E:\julia\Geekbrains\CONTROLWORK\TheTask\obj\Debug\net6.0\TheTask.csproj.AssemblyReference.cache
+E:\julia\Geekbrains\CONTROLWORK\TheTask\obj\Debug\net6.0\TheTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\julia\Geekbrains\CONTROLWORK\TheTask\obj\Debug\net6.0\TheTask.AssemblyInfoInputs.cache
+E:\julia\Geekbrains\CONTROLWORK\TheTask\obj\Debug\net6.0\TheTask.AssemblyInfo.cs
+E:\julia\Geekbrains\CONTROLWORK\TheTask\obj\Debug\net6.0\TheTask.csproj.CoreCompileInputs.cache
+E:\julia\Geekbrains\CONTROLWORK\TheTask\obj\Debug\net6.0\TheTask.dll
+E:\julia\Geekbrains\CONTROLWORK\TheTask\obj\Debug\net6.0\refint\TheTask.dll
+E:\julia\Geekbrains\CONTROLWORK\TheTask\obj\Debug\net6.0\TheTask.pdb
+E:\julia\Geekbrains\CONTROLWORK\TheTask\obj\Debug\net6.0\TheTask.genruntimeconfig.cache
+E:\julia\Geekbrains\CONTROLWORK\TheTask\obj\Debug\net6.0\ref\TheTask.dll

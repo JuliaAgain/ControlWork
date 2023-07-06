@@ -58,6 +58,5 @@ PrintArray(array);
 int newNum = CountNumElementsShorterThanThree(array);
 Console.WriteLine();
 Console.WriteLine("Новый массив из элементов, длина которых <=3:");
-Console.WriteLine();
 string[] NewShortArray = FillNewShortArray(newNum, array);
 PrintArray(NewShortArray);
